@@ -26,4 +26,5 @@ dependencies {
     compile files('src/main/res/libs/YouTubeAndroidPlayerApi.jar')
     compile files('src/main/res/raw/YouTubeAndroidPlayerApi.jar')
     compile files('src/main/java/lib/YouTubeAndroidPlayerApi.jar')
+    compile files('src/main/java/lib/ytsdk_4_1_M.jar')
 }
